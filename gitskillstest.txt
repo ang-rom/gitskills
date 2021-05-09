@@ -1,2 +1,3 @@
 test gitskills
-learngit add
+learngit add bob add
+
